@@ -1,4 +1,4 @@
-# Hi there, I'm Shubu! 👋
+# Hi there, I'm Shubham! 👋
 
 Welcome to my GitHub profile! I'm Shubu, a passionate web developer with a focus on HTML5, CSS3, JavaScript, React.js, and MERN stack development. Follow me for insights, projects, and tutorials on modern web development.
 
